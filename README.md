@@ -1,4 +1,25 @@
-# React + TypeScript + Vite
+# ReactMatUIStarter
+A starter for later reference built using React MaterialUI and Vite.
+
+
+- [Setup Steps using VITE](#Steps)
+- [VITE Instruction](#VITE_Instruction)
+
+## <a id="Steps"></a>Steps
+- Using VITE to start the react project.
+
+    - Command:  ```_npm create vite@latest_```
+    - Choose Project Name
+    - Choose FWK as ```React```
+    - Choose variant as ```TypeScript + SWC```
+
+```
+  npm install
+  npm run dev
+```
+
+---------
+# <a id="VITE_Instruction"></a>React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
