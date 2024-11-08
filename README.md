@@ -18,6 +18,11 @@ A starter for later reference built using React MaterialUI and Vite.
   npm run dev
 ```
 
+```
+npm install @mui/material @emotion/react @emotion/styled
+npm install @mui/icons-material
+```
+
 ---------
 # <a id="VITE_Instruction"></a>React + TypeScript + Vite
 
